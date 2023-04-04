@@ -1,6 +1,6 @@
 # hse_hw3_chromhmm
 
-Клеточная линия: HMEC
+Клеточная линия: **HMEC**
 
 Список 10-ти гистоновых меток:
 1. wgEncodeBroadHistoneHmec**Ctcf**StdAlnRep1
@@ -14,7 +14,7 @@
 9. wgEncodeBroadHistoneHmec**H3k9ac**StdAlnRep1
 10. wgEncodeBroadHistoneHmec**H4k20me1**StdAlnRep1
 
-Контроль: wgEncodeBroadHistoneHmecControlStdAlnRep1
+Контроль: wgEncodeBroadHistoneHmec**Control**StdAlnRep1
 
 [cellmarkfiletable.txt](/cellmarkfiletable.txt)
 [Папка с выдачей ChromHMM](/data)
